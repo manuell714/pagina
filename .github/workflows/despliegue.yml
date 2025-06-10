@@ -1,5 +1,8 @@
 name: Despliega
 
+permissions:
+  contents: write  
+
 on:
   push:
     branches:
