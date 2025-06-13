@@ -4,7 +4,7 @@ import Layout from './Layout';
 import './App.css';
 
 function Home() {
-  return <h1>Bienvenidos a la Página de Inicio de Jassiel</h1>;
+  return <h1>Bienvenidos a la Página de Inicio de Jassiel Manuel</h1>;
 }
 
 function About() {
